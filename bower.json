@@ -1,0 +1,7 @@
+{
+  "name": "CrashTest",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "bootstrap": "~0.3.0"
+  }
+}
